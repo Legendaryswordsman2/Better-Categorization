@@ -326,111 +326,51 @@
 	"glasspiece": {
 		"categories": [
 			"ingredient"
-		],
-		"icon": "./textures/icons/glasspiece.png",
-		"isPlaceable": false
+		]
 	},
 	"goldenshield": {
 		"categories": [
 			"ingredient"
-		],
-		"icon": "./textures/icons/goldenshield.png",
-		"isPlaceable": false
+		]
 	},
 	"goldingot": {
 		"categories": [
 			"consumables"
-		],
-		"icon": "./textures/icons/goldingot.png",
-		"isPlaceable": false
+		]
 	},
 	"goldjewellery": {
 		"categories": [
 			"ingredient"
-		],
-		"icon": "./textures/icons/jewelry.png",
-		"isPlaceable": false
+		]
 	},
 	"goldore": {
 		"categories": [
 			"consumables"
-		],
-		"icon": "./textures/icons/goldore.png",
-		"isPlaceable": false
-	},
-	"grass": {
-		"maxStackSize": 200,
-		"onPlaceAudio": "dirtPlace",
-		"onRemoveAudio": "grassDelete",
-		"sideall": "grassgeneric"
+		]
 	},
 	"grassdry": {
-		"attachBehaviour": [
-			{
-				"id": "dirtconversion",
-				"type": "dirt"
-			}
-		],
-		"blockFertility": 1,
 		"categories": [
 			"decorative",
 			"grass"
-		],
-		"color": "#749b5c",
-		"icon": "./textures/icons/grasscolddry.png",
-		"onRemoveAmount": 1,
-		"parentType": "grass"
+		]
 	},
 	"grassfen": {
-		"attachBehaviour": [
-			{
-				"id": "dirtconversion",
-				"type": "dirtfen"
-			}
-		],
-		"blockFertility": 3,
 		"categories": [
 			"decorative",
 			"grass"
-		],
-		"color": "#7ec681",
-		"icon": "./textures/icons/grassfen.png",
-		"onRemoveAmount": 1,
-		"parentType": "grass"
+		]
 	},
 	"grassheath": {
-		"attachBehaviour": [
-			{
-				"id": "dirtconversion",
-				"type": "dirtheath"
-			}
-		],
-		"blockFertility": 5,
 		"categories": [
 			"decorative",
 			"grass"
-		],
-		"color": "#b3d75b",
-		"icon": "./textures/icons/grassheath.png",
-		"onRemoveAmount": 1,
-		"parentType": "grass"
+		]
 	},
 	"grassheathpurple": {
-		"attachBehaviour": [
-			{
-				"id": "dirtconversion",
-				"type": "dirtheath"
-			}
-		],
-		"blockFertility": 5,
 		"categories": [
 			"decorative",
 			"grass"
-		],
-		"color": "#b0808e",
-		"icon": "./textures/icons/grassheathpurple.png",
-		"onRemoveAmount": 1,
-		"parentType": "grass"
+		]
 	},
 	"grassmax": {
 		"attachBehaviour": [
@@ -443,442 +383,97 @@
 		"categories": [
 			"decorative",
 			"grass"
-		],
-		"color": "#549030",
-		"icon": "./textures/icons/grasshotmid.png",
-		"onRemoveAmount": 1,
-		"parentType": "grass"
+		]
 	},
 	"grassmid": {
-		"attachBehaviour": [
-			{
-				"id": "dirtconversion",
-				"type": "dirt"
-			}
-		],
 		"blockFertility": 1,
 		"categories": [
 			"decorative",
 			"grass"
-		],
-		"color": "#77a959",
-		"icon": "./textures/icons/grasscoldmid.png",
-		"onRemoveAmount": 1,
-		"parentType": "grass"
+		]
 	},
 	"grasswet": {
-		"attachBehaviour": [
-			{
-				"id": "dirtconversion",
-				"type": "dirt"
-			}
-		],
-		"blockFertility": 1,
 		"categories": [
 			"decorative",
 			"grass"
-		],
-		"color": "#63a53c",
-		"icon": "./textures/icons/grasscoldwet.png",
-		"onRemoveAmount": 1,
-		"parentType": "grass"
+		]
 	},
 	"grenadelauncher": {
-		"attachBehaviour": [
-			{
-				"ammo": [
-					{
-						"type": "grenadelauncherammo"
-					}
-				],
-				"boundscenter": [
-					0,
-					0,
-					0
-				],
-				"boundssize": [
-					0.06,
-					0.06,
-					0.06
-				],
-				"cooldown": 3.5,
-				"damage": 1500,
-				"force": 90.0,
-				"hitForce": 25,
-				"id": "client_weapon",
-				"meshitemtype": "projectile_slingbullet",
-				"shootaudio": "handcannon",
-				"spawndistance": 0.3,
-				"spawnoffset": [
-					0,
-					-0.2,
-					0
-				]
-			}
-		],
 		"categories": [
 			"defense",
 			"weapon"
-		],
-		"icon": "./textures/icons/grenadelauncher.png",
-		"isPlaceable": false
+		]
 	},
 	"grenadelauncherammo": {
 		"categories": [
 			"defense",
 			"ammo"
-		],
-		"icon": "./textures/icons/grenadelauncherammo.png",
-		"isPlaceable": false
+		]
 	},
 	"gunpowder": {
 		"categories": [
 			"ingredient"
-		],
-		"icon": "./textures/icons/gunpowder.png",
-		"isPlaceable": false
+		]
 	},
 	"gunpowdertrapammo": {
 		"categories": [
 			"defense",
 			"ammo"
-		],
-		"icon": "./textures/icons/gunpowdertrapammo.png",
-		"isPlaceable": false
+		]
 	},
 	"guntrapammo": {
 		"categories": [
 			"defense",
 			"ammo"
-		],
-		"icon": "./textures/icons/guntrapammo.png",
-		"isPlaceable": false
+		]
 	},
 	"handcannon": {
-		"attachBehaviour": [
-			{
-				"ammo": [
-					{
-						"type": "handcannonammo"
-					}
-				],
-				"boundscenter": [
-					0,
-					0,
-					0
-				],
-				"boundssize": [
-					0.06,
-					0.06,
-					0.06
-				],
-				"cooldown": 3.5,
-				"damage": 1500,
-				"force": 90.0,
-				"hitForce": 25,
-				"id": "client_weapon",
-				"meshitemtype": "projectile_slingbullet",
-				"shootaudio": "handcannon",
-				"spawndistance": 0.3,
-				"spawnoffset": [
-					0,
-					-0.2,
-					0
-				]
-			}
-		],
 		"categories": [
 			"defense",
 			"weapon"
-		],
-		"icon": "./textures/icons/handcannon.png",
-		"isPlaceable": false
+		]
 	},
 	"handcannonammo": {
 		"categories": [
 			"defense",
 			"ammo"
-		],
-		"icon": "./textures/icons/handcannonammo.png",
-		"isPlaceable": false
+		]
 	},
 	"hemp": {
 		"categories": [
 			"texres"
-		],
-		"icon": "./textures/icons/hemp.png",
-		"isPlaceable": false
+		]
 	},
 	"hempfibre": {
 		"categories": [
 			"texres"
-		],
-		"icon": "./textures/icons/hempfibre.png",
-		"isPlaceable": false
-	},
-	"hempstage1": {
-		"colliders": [
-			{
-				"impactsPhysics": false,
-				"max": [
-					0.5,
-					0.1,
-					0.5
-				],
-				"min": [
-					-0.5,
-					-0.5,
-					-0.5
-				]
-			}
-		],
-		"isSolid": false,
-		"mesh": "./meshes/hempstage1.ply",
-		"needsBase": true,
-		"onPlaceAudio": "grassDelete",
-		"onRemoveAmount": 0,
-		"onRemoveAudio": "grassDelete",
-		"requiredFertilityBelow": 2,
-		"sideall": "neutral"
-	},
-	"hempstage2": {
-		"colliders": [
-			{
-				"impactsPhysics": false,
-				"max": [
-					0.5,
-					0.1,
-					0.5
-				],
-				"min": [
-					-0.5,
-					-0.5,
-					-0.5
-				]
-			}
-		],
-		"isSolid": false,
-		"mesh": "./meshes/hempstage2.ply",
-		"needsBase": true,
-		"onPlaceAudio": "grassDelete",
-		"onRemoveAudio": "grassDelete",
-		"onRemoveType": "hemp",
-		"sideall": "neutral"
+		]
 	},
 	"hollyhock": {
 		"categories": [
 			"texres"
-		],
-		"icon": "./textures/icons/hollyhock.png",
-		"isPlaceable": false
-	},
-	"hollyhockstage1": {
-		"colliders": [
-			{
-				"impactsPhysics": false,
-				"max": [
-					0.5,
-					0.1,
-					0.5
-				],
-				"min": [
-					-0.5,
-					-0.5,
-					-0.5
-				]
-			}
-		],
-		"customData": {
-			"colors": [
-				"#ff0000->#8fc847"
-			]
-		},
-		"isSolid": false,
-		"mesh": "./meshes/flaxstage1.ply",
-		"needsBase": true,
-		"onPlaceAudio": "grassDelete",
-		"onRemoveAmount": 0,
-		"onRemoveAudio": "grassDelete",
-		"requiredFertilityBelow": 2,
-		"sideall": "neutral"
-	},
-	"hollyhockstage2": {
-		"colliders": [
-			{
-				"impactsPhysics": false,
-				"max": [
-					0.5,
-					0.1,
-					0.5
-				],
-				"min": [
-					-0.5,
-					-0.5,
-					-0.5
-				]
-			}
-		],
-		"customData": {
-			"colors": [
-				"#ff0000->#8fc847",
-				"#00ff00->#850f18"
-			]
-		},
-		"isSolid": false,
-		"mesh": "./meshes/flaxstage2.ply",
-		"needsBase": true,
-		"onPlaceAudio": "grassDelete",
-		"onRemoveAudio": "grassDelete",
-		"onRemoveType": "hollyhock",
-		"sideall": "neutral"
-	},
-	"infiniteclay": {
-		"customData": {
-			"minerIsMineable": true,
-			"minerMiningTime": 20
-		},
-		"destructionTime": 1250,
-		"onRemoveAudio": "stoneDelete",
-		"onRemoveType": "clay",
-		"sideall": "SELF"
-	},
-	"infinitecoal": {
-		"customData": {
-			"minerIsMineable": true,
-			"minerMiningTime": 300
-		},
-		"destructionTime": 1250,
-		"onRemoveAudio": "stoneDelete",
-		"onRemoveType": "coalore",
-		"sideall": "SELF"
-	},
-	"infinitecopper": {
-		"customData": {
-			"minerIsMineable": true,
-			"minerMiningTime": 20
-		},
-		"destructionTime": 1250,
-		"onRemoveAudio": "stoneDelete",
-		"onRemoveType": "copper",
-		"sideall": "SELF"
-	},
-	"infinitegold": {
-		"customData": {
-			"minerIsMineable": true,
-			"minerMiningTime": 300
-		},
-		"destructionTime": 5000,
-		"onRemoveAudio": "stoneDelete",
-		"onRemoveType": "goldore",
-		"sideall": "SELF"
-	},
-	"infiniteiron": {
-		"customData": {
-			"minerIsMineable": true,
-			"minerMiningTime": 60
-		},
-		"destructionTime": 1250,
-		"onRemoveAudio": "stoneDelete",
-		"onRemoveType": "ironore",
-		"sideall": "SELF"
-	},
-	"infinitelead": {
-		"customData": {
-			"minerIsMineable": true,
-			"minerMiningTime": 300
-		},
-		"destructionTime": 1250,
-		"onRemoveAudio": "stoneDelete",
-		"onRemoveType": "leadore",
-		"sideall": "infinitegalena"
-	},
-	"infinitesilicasand": {
-		"customData": {
-			"minerIsMineable": true,
-			"minerMiningTime": 360
-		},
-		"destructionTime": 2000,
-		"onRemoveAudio": "stoneDelete",
-		"onRemoveType": "silicasand",
-		"sideall": "SELF"
-	},
-	"infinitestone": {
-		"customData": {
-			"minerIsMineable": true,
-			"minerMiningTime": 20
-		},
-		"destructionTime": 1250,
-		"isDestructible": false,
-		"onRemoveAudio": "stoneDelete",
-		"onRemoveType": "stonerubble",
-		"sideall": "SELF"
-	},
-	"infinitesulfur": {
-		"customData": {
-			"minerIsMineable": true,
-			"minerMiningTime": 300
-		},
-		"destructionTime": 1250,
-		"onRemoveAudio": "stoneDelete",
-		"onRemoveType": "sulfur",
-		"sideall": "SELF"
-	},
-	"infinitetin": {
-		"customData": {
-			"minerIsMineable": true,
-			"minerMiningTime": 300
-		},
-		"destructionTime": 1250,
-		"onRemoveAudio": "stoneDelete",
-		"onRemoveType": "tin",
-		"sideall": "SELF"
-	},
-	"infinitezinc": {
-		"customData": {
-			"minerIsMineable": true,
-			"minerMiningTime": 300
-		},
-		"destructionTime": 1250,
-		"onRemoveAudio": "stoneDelete",
-		"onRemoveType": "zinc",
-		"sideall": "zinc"
+		]
 	},
 	"ironbloom": {
 		"categories": [
 			"consumables"
-		],
-		"icon": "./textures/icons/ironbloom.png",
-		"isPlaceable": false
+		]
 	},
 	"ironore": {
 		"categories": [
 			"consumables"
-		],
-		"icon": "./textures/icons/ironore.png",
-		"isPlaceable": false
+		]
 	},
 	"irontools": {
-		"attachBehaviour": [
-			{
-				"craftingspeed": 5.3,
-				"durability": 4500.0,
-				"id": "tool",
-				"scienceHint": "pipliz.iron"
-			}
-		],
 		"categories": [
 			"consumables",
 			"tool"
-		],
-		"icon": "./textures/icons/irontools.png",
-		"isPlaceable": false
+		]
 	},
 	"ironwrought": {
 		"categories": [
 			"consumables"
-		],
-		"icon": "./textures/icons/ironwrought.png",
-		"isPlaceable": false
+		]
 	},
 	"lanternblue": {
 		"categories": [
