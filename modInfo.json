@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Better Categorization",
+		"version": "0.1.1.0",
+		"enableddefault": true,
+		"description": "Restructures the inventory stockpile to make everything more organized",
+		"compatibleversions": [
+			"0.9.0"
+		],
+		"jsonFiles": [
+			{
+				"fileType": "addOrOverrideLocalization",
+				"relativePath": "./localization/en-US.json"
+			},
+			{
+				"fileType": "overrideTypeProperties",
+				"index": 15000,
+				"relativePath": "overridetypes.json"
+			}
+		]
+	}
+]
