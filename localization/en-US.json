@@ -2,6 +2,7 @@
   "sentences": {
     "category": {
       "GMS_A_essential": "Essentials",
+      "GMS_B_tools":  "Tools",
       "GMS_C_advjob": "Advnaced Jobblocks",
       "GMS_E_job": "Jobblocks",
       "GMS_F_defense-night": "Defense-Night",

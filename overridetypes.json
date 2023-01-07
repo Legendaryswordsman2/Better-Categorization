@@ -49,7 +49,8 @@
 	},
 	"brassingot": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ingot"
 		]
 	},
 	"brassparts": {
@@ -105,13 +106,14 @@
 	},
 	"bronzeingot": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ingot"
 		]
 	},
 	"bronzetools": {
 		"categories": [
-			"GMS_K_consumables",
-			"tool"
+			"GMS_B_tools",
+			"tool3"
 		]
 	},
 	"cabbage": {
@@ -142,7 +144,8 @@
 	},
 	"charcoal": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"various"
 		]
 	},
 	"cherryblossom": {
@@ -192,17 +195,20 @@
 	},
 	"clay": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ore"
 		]
 	},
 	"coalore": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ore"
 		]
 	},
 	"cokes": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"various"
 		]
 	},
 	"compass": {
@@ -223,7 +229,8 @@
 	},
 	"copper": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ore"
 		]
 	},
 	"copperarrow": {
@@ -234,13 +241,14 @@
 	},
 	"copperingot": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ingot"
 		]
 	},
 	"coppertools": {
 		"categories": [
-			"GMS_K_consumables",
-			"tool"
+			"GMS_B_tools",
+			"tool2"
 		]
 	},
 	"cotton": {
@@ -307,8 +315,8 @@
 	},
 	"eyeglasses": {
 		"categories": [
-			"GMS_K_consumables",
-			"tool"
+			"GMS_B_tools",
+			"tool7"
 		]
 	},
 	"failsafe": {
@@ -319,7 +327,8 @@
 	},
 	"firewood": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"firewood"
 		]
 	},
 	"flax": {
@@ -345,7 +354,8 @@
 	},
 	"goldingot": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ingot"
 		]
 	},
 	"goldjewellery": {
@@ -355,7 +365,8 @@
 	},
 	"goldore": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ore"
 		]
 	},
 	"grassdry": {
@@ -467,23 +478,26 @@
 	},
 	"ironbloom": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"various"
 		]
 	},
 	"ironore": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ore"
 		]
 	},
 	"irontools": {
 		"categories": [
-			"GMS_K_consumables",
-			"tool"
+			"GMS_B_tools",
+			"tool4"
 		]
 	},
 	"ironwrought": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"various"
 		]
 	},
 	"lanternblue": {
@@ -536,12 +550,14 @@
 	},
 	"leadingot": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ingot"
 		]
 	},
 	"leadore": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ore"
 		]
 	},
 	"leather": {
@@ -618,8 +634,8 @@
 	},
 	"machinetools": {
 		"categories": [
-			"GMS_K_consumables",
-			"tool"
+			"GMS_B_tools",
+			"tool6"
 		]
 	},
 	"manuscript": {
@@ -891,7 +907,8 @@
 	},
 	"steelingot": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ingot"
 		]
 	},
 	"steelparts": {
@@ -901,8 +918,8 @@
 	},
 	"steeltools": {
 		"categories": [
-			"GMS_K_consumables",
-			"tool"
+			"GMS_B_tools",
+			"tool5"
 		]
 	},
 	"stoneblock": {
@@ -942,13 +959,14 @@
 	},
 	"stonerubble": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"rubble"
 		]
 	},
 	"stonetools": {
 		"categories": [
-			"GMS_K_consumables",
-			"tool"
+			"GMS_B_tools",
+			"tool1"
 		]
 	},
 	"straw": {
@@ -973,7 +991,8 @@
 	},
 	"tin": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ore"
 		]
 	},
 	"toolshop": {
@@ -1060,7 +1079,8 @@
 	},
 	"zinc": {
 		"categories": [
-			"GMS_K_consumables"
+			"GMS_K_consumables",
+			"ore"
 		]
 	},
 	"colonykit": {
