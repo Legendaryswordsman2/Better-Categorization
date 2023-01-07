@@ -1098,5 +1098,346 @@
 		"categories": [
 			"job"
 		]
+	},
+	"stove": {
+		"categories": [
+			"job"
+		]
+	},
+	"stonemasonworkbench": {
+		"categories": [
+			"job"
+		]
+	},
+	"splittingstump": {
+		"categories": [
+			"job"
+		]
+	},
+	"ropebench": {
+		"categories": [
+			"job"
+		]
+	},
+	"engineerbench": {
+		"categories": [
+			"job"
+		]
+	},
+	"potterystation": {
+		"categories": [
+			"job"
+		]
+	},
+	"waterpump": {
+		"categories": [
+			"job"
+		]
+	},
+	"grindstone": {
+		"categories": [
+			"job"
+		]
+	},
+	"firepit": {
+		"categories": [
+			"job"
+		]
+	},
+	"papermakersmould": {
+		"categories": [
+			"job"
+		]
+	},
+	"alchemisttable": {
+		"categories": [
+			"job"
+		]
+	},
+	"scribedesk": {
+		"categories": [
+			"job"
+		]
+	},
+	"scrollshelf": {
+		"categories": [
+			"job"
+		]
+	},
+	"scrollshelffilled": {
+		"categories": [
+			"job"
+		]
+	},
+	"scrollshelf1": {
+		"categories": [
+			"job"
+		]
+	},
+	"scrollshelf2": {
+		"categories": [
+			"job"
+		]
+	},
+	"researchdesk": {
+		"categories": [
+			"job"
+		]
+	},
+	"bookcase": {
+		"categories": [
+			"job"
+		]
+	},
+	"bookcasefilled": {
+		"categories": [
+			"job"
+		]
+	},
+	"bookcase1": {
+		"categories": [
+			"job"
+		]
+	},
+	"bookcase2": {
+		"categories": [
+			"job"
+		]
+	},
+	"chestmaker": {
+		"categories": [
+			"job"
+		]
+	},
+	"gunsmith": {
+		"categories": [
+			"job"
+		]
+	},
+	"glassblower": {
+		"categories": [
+			"job"
+		]
+	},
+	"jobblockcrafter": {
+		"categories": [
+			"job"
+		]
+	},
+	"jobblockcrafteradvanced": {
+		"categories": [
+			"job"
+		]
+	},
+	"printingpress": {
+		"categories": [
+			"job"
+		]
+	},
+	"dyertable": {
+		"categories": [
+			"job"
+		]
+	},
+	"cottonengine": {
+		"categories": [
+			"job"
+		]
+	},
+	"metallathe": {
+		"categories": [
+			"job"
+		]
+	},
+	"tabulator": {
+		"categories": [
+			"job"
+		]
+	},
+	"blastfurnace": {
+		"categories": [
+			"job"
+		]
+	},
+	"composingbin": {
+		"categories": [
+			"job"
+		]
+	},
+	"copperlockbox": {
+		"categories": [
+			"job"
+		]
+	},
+	"sanctifiedhouse": {
+		"categories": [
+			"essential",
+			"pointstorage"
+		]
+	},
+	"wisteriajob": {
+		"categories": [
+			"job"
+		]
+	},
+	"trapfixer": {
+		"categories": [
+			"essential"
+		]
+	},
+	"bronzelockbox": {
+		"categories": [
+			"essential",
+			"pointstorage"
+		]
+	},
+	"steellockbox": {
+		"categories": [
+			"essential",
+			"pointstorage"
+		]
+	},
+	"statisticsboard": {
+		"categories": [
+			"essential"
+		]
+	},
+	"watergatherer": {
+		"categories": [
+			"job"
+		]
+	},
+	"fisherman": {
+		"categories": [
+			"job"
+		]
+	},
+	"jewellerbench": {
+		"categories": [
+			"job"
+		]
+	},
+	"tannertable": {
+		"categories": [
+			"job"
+		]
+	},
+	"fletcherbench": {
+		"categories": [
+			"job"
+		]
+	},
+	"npcshop": {
+		"categories": [
+			"job"
+		]
+	},
+	"guardslingerdayjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardslingernightjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardpoison": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardbowdayjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardbownightjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardcrossbowdayjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardcrossbownightjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardhandcannondayjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardhandcannonnightjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardmusketdayjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardmusketnightjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardgrenadedayjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"guardgrenadenightjob": {
+		"categories": [
+			"defense",
+			"guard"
+		]
+	},
+	"bloomery": {
+		"categories": [
+			"job"
+		]
+	},
+	"kiln": {
+		"categories": [
+			"job"
+		]
+	},
+	"furnace": {
+		"categories": [
+			"job"
+		]
+	},
+	"writerdesk": {
+		"categories": [
+			"job"
+		]
+	},
+	"copperanvil": {
+		"categories": [
+			"job"
+		]
+	},
+	"bed": {
+		"categories": [
+			"essential"
+		]
 	}
 }
