@@ -786,6 +786,60 @@
 			"sapling"
 		]
 	},
+	"saplingfallorange": {
+		"categories": [
+			"GMS_decorative",
+			"sapling"
+		]
+	},
+	"saplingfallred": {
+		"categories": [
+			"GMS_decorative",
+			"sapling"
+		]
+	},
+	"saplingfallyellow": {
+		"categories": [
+			"GMS_decorative",
+			"sapling"
+		]
+	},
+	"saplingdark": {
+		"categories": [
+			"GMS_decorative",
+			"sapling"
+		]
+	},
+	"saplinglight": {
+		"categories": [
+			"GMS_decorative",
+			"sapling"
+		]
+	},
+	"saplingtaiga": {
+		"categories": [
+			"GMS_decorative",
+			"sapling"
+		]
+	},
+	"saplingtemporate": {
+		"categories": [
+			"GMS_decorative",
+			"sapling"
+		]
+	},
+	"saplingcherry": {
+		"categories": [
+			"GMS_decorative",
+			"sapling"
+		]
+	},
+	"saplingfallgreen": {
+		"categories": [
+			"GMS_decorative",
+			"sapling"
+		]
+	},
 	"scientificnote": {
 		"categories": [
 			"GMS_texres"
