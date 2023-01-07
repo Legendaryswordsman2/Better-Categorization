@@ -1,374 +1,374 @@
 {
 	"alkanet": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"animalcarcass": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"astrolabe": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"barley": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"berry": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"berrybush": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"berrymeal": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"bookofknowledge": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"bow": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"weapon"
 		]
 	},
 	"brassingot": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"brassparts": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"bread": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"breadmeal": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"bricks": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"bricks"
 		]
 	},
 	"bricksblack": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"bricks"
 		]
 	},
 	"bricksdarkred": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"bricks"
 		]
 	},
 	"bricksdarkyellow": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"bricks"
 		]
 	},
 	"brickslight": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"bricks"
 		]
 	},
 	"bricksred": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"bricks"
 		]
 	},
 	"bronzeingot": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"bronzetools": {
 		"categories": [
-			"GMS_5_consumables",
+			"GMS_K_consumables",
 			"tool"
 		]
 	},
 	"cabbage": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"caltrops": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"candle": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"carddata": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"cardempty": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"charcoal": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"cherryblossom": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"leaves"
 		]
 	},
 	"chest": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"chestluxury": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"chestprestige": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"chestresource": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"chickenmeal": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"chickenpoop": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"chickenraw": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"clay": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"coalore": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"cokes": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"compass": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"cookedfish": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"cookedmeat": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"copper": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"copperarrow": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"copperingot": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"coppertools": {
 		"categories": [
-			"GMS_5_consumables",
+			"GMS_K_consumables",
 			"tool"
 		]
 	},
 	"cotton": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"cottonfibre": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"crate": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"crossbow": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"weapon"
 		]
 	},
 	"crossbowbolt": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"darkstone": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"dirt": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"dirt"
 		]
 	},
 	"dirtfen": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"dirt"
 		]
 	},
 	"dirtheath": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"dirt"
 		]
 	},
 	"droppertrapammo": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"earthenware": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"eyeglasses": {
 		"categories": [
-			"GMS_5_consumables",
+			"GMS_K_consumables",
 			"tool"
 		]
 	},
 	"failsafe": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"firewood": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"flax": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"flaxstage1": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"glasspiece": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"goldenshield": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"goldingot": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"goldjewellery": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"goldore": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"grassdry": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"grass"
 		]
 	},
 	"grassfen": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"grass"
 		]
 	},
 	"grassheath": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"grass"
 		]
 	},
 	"grassheathpurple": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"grass"
 		]
 	},
@@ -381,1153 +381,1153 @@
 		],
 		"blockFertility": 1,
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"grass"
 		]
 	},
 	"grassmid": {
 		"blockFertility": 1,
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"grass"
 		]
 	},
 	"grasswet": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"grass"
 		]
 	},
 	"grenadelauncher": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"weapon"
 		]
 	},
 	"grenadelauncherammo": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"gunpowder": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"gunpowdertrapammo": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"guntrapammo": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"handcannon": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"weapon"
 		]
 	},
 	"handcannonammo": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"hemp": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"hempfibre": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"hollyhock": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"ironbloom": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"ironore": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"irontools": {
 		"categories": [
-			"GMS_5_consumables",
+			"GMS_K_consumables",
 			"tool"
 		]
 	},
 	"ironwrought": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"lanternblue": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"lantern"
 		]
 	},
 	"lanterncyan": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"lantern"
 		]
 	},
 	"lanterngreen": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"lantern"
 		]
 	},
 	"lanternorange": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"lantern"
 		]
 	},
 	"lanternpink": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"lantern"
 		]
 	},
 	"lanternred": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"lantern"
 		]
 	},
 	"lanternwhite": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"lantern"
 		]
 	},
 	"lanternyellow": {
 		"categories": [
-			"GMS_0_essential",
+			"GMS_A_essential",
 			"lantern"
 		]
 	},
 	"leadingot": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"leadore": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"leather": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"leavesfallorange": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"leaves"
 		]
 	},
 	"leavesfallred": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"leaves"
 		]
 	},
 	"leavesfallyellow": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"leaves"
 		]
 	},
 	"leavesgreendark": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"leaves"
 		]
 	},
 	"leavesgreenlight": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"leaves"
 		]
 	},
 	"leavestaiga": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"leaves"
 		]
 	},
 	"leavestemperate": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"leaves"
 		]
 	},
 	"linen": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"logtaiga": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"logtemperate": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"logwall": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"luxurygarments": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"machinetools": {
 		"categories": [
-			"GMS_5_consumables",
+			"GMS_K_consumables",
 			"tool"
 		]
 	},
 	"manuscript": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"merchanthub": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"metalgear": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"monocular": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"movabletype": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"mudbricks": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"musket": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"weapon"
 		]
 	},
 	"musketammo": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"nitro": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"outpostbanner": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"paper": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"parchment": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"planks": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"planksblue": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"planks"
 		]
 	},
 	"planksgreen": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"planks"
 		]
 	},
 	"planksred": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"planks"
 		]
 	},
 	"poisondart": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"potash": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"potempty": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"potflour": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"potwater": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"projectiletrapammo": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"rawfish": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"rawmeat": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"rope": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"ropetrap": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"trap"
 		]
 	},
 	"ropetrapammo": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"saltpeter": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"sanctifiedbreadmeal": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"sanctifiedchickenmeal": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"sanctifiedporridge": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"sand": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"sapling": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"sapling"
 		]
 	},
 	"saplingfallorange": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"sapling"
 		]
 	},
 	"saplingfallred": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"sapling"
 		]
 	},
 	"saplingfallyellow": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"sapling"
 		]
 	},
 	"saplingdark": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"sapling"
 		]
 	},
 	"saplinglight": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"sapling"
 		]
 	},
 	"saplingtaiga": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"sapling"
 		]
 	},
 	"saplingtemperate": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"sapling"
 		]
 	},
 	"saplingcherry": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"sapling"
 		]
 	},
 	"saplinggreen": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"sapling"
 		]
 	},
 	"scientificnote": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"scrollofknowledge": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"silicasand": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"skin": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"sling": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"weapon"
 		]
 	},
 	"slingbullet": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"ammo"
 		]
 	},
 	"snow": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"steelingot": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"steelparts": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"steeltools": {
 		"categories": [
-			"GMS_5_consumables",
+			"GMS_K_consumables",
 			"tool"
 		]
 	},
 	"stoneblock": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"stonebricks": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"bricks"
 		]
 	},
 	"stonebricksblack": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"bricks"
 		]
 	},
 	"stonebricksbrown": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"bricks"
 		]
 	},
 	"stonebricksnew": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"bricks"
 		]
 	},
 	"stonebrickswhite": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"bricks"
 		]
 	},
 	"stonerubble": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"stonetools": {
 		"categories": [
-			"GMS_5_consumables",
+			"GMS_K_consumables",
 			"tool"
 		]
 	},
 	"straw": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"sulfur": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"tabletclay": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"tabletwisdom": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"tin": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"toolshop": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"torch": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"trader": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"vialempty": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"vialmineraloil": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"vialnitricacid": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"vialsulphuricacid": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"wheat": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"wheatmeal": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"wheatporridge": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"wheatstage1": {
 		"categories": [
-			"GMS_1_food"
+			"GMS_M_food"
 		]
 	},
 	"wisteriaflower": {
 		"categories": [
-			"GMS_7_ingredient"
+			"GMS_Q_ingredient"
 		]
 	},
 	"wisteriaplant": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"wisteriaplantempty": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"wolfsbane": {
 		"categories": [
-			"GMS_6_texres"
+			"GMS_O_texres"
 		]
 	},
 	"woodfloor": {
 		"categories": [
-			"GMS_2_decorative"
+			"GMS_I_decorative"
 		]
 	},
 	"zinc": {
 		"categories": [
-			"GMS_5_consumables"
+			"GMS_K_consumables"
 		]
 	},
 	"colonykit": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"redsapling": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
-	// Generate Blocks/GMS_3_joblocks
+	// Generate Blocks/GMS_E_joblocks
 	"glider": {
 		"categories": [
-			"GMS_0_essential",
+			"GMS_A_essential",
 			"transport"
 		]
 	},
 	"glidersteel": {
 		"categories": [
-			"GMS_0_essential",
+			"GMS_A_essential",
 			"transport"
 		]
 	},
 	"droppertrap": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"trap"
 		]
 	},
 	"gunpowdertrap": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"trap"
 		]
 	},
 	"projectiletrap": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"trap"
 		]
 	},
 	"guntrap": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"trap"
 		]
 	},
 	"elevator": {
 		"categories": [
-			"GMS_0_essential",
+			"GMS_A_essential",
 			"transport"
 		]
 	},
 	"elevatorshaft": {
 		"categories": [
-			"GMS_0_essential",
+			"GMS_A_essential",
 			"transport"
 		]
 	},
 	"elevatorhorizontal": {
 		"categories": [
-			"GMS_0_essential",
+			"GMS_A_essential",
 			"transport"
 		]
 	},
 	"elevatorshafthorizontal": {
 		"categories": [
-			"GMS_0_essential",
+			"GMS_A_essential",
 			"transport"
 		]
 	},
 	"goldenstatue": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"quarterblockgrey": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"stair"
 		]
 	},
 	"quarterblockbrowndark": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"stair"
 		]
 	},
 	"quarterblockbrownlight": {
 		"categories": [
-			"GMS_2_decorative",
+			"GMS_I_decorative",
 			"stair"
 		]
 	},
 	"caltroptrap": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"trap"
 		]
 	},
 	"minerjob": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"tinkerertable": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"sanctifiertable": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"alarmbell": {
 		"categories": [
-			"GMS_4_defense"
+			"GMS_G_defense"
 		]
 	},
 	"tailorshop": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"stove": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"stonemasonworkbench": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"splittingstump": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"ropebench": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"engineerbench": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"potterystation": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"waterpump": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"grindstone": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"firepit": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"papermakersmould": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"alchemisttable": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"scribedesk": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"scrollshelf": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"scrollshelffilled": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"scrollshelf1": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"scrollshelf2": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"researcherdesk": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"bookcase": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"bookcasefilled": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"bookcase1": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"bookcase2": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"chestmaker": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"gunsmith": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"glassblower": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"jobblockcrafter": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"jobblockcrafteradvanced": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"printingpress": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"dyertable": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"cottonengine": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"metallathe": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"tabulator": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"blastfurnace": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"blastfurnacelit": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"compostingbin": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"copperlockbox": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"sanctifiedhouse": {
 		"categories": [
-			"GMS_0_essential",
+			"GMS_A_essential",
 			"pointstorage"
 		]
 	},
 	"wisteriajob": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"trapfixer": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"bronzelockbox": {
 		"categories": [
-			"GMS_0_essential",
+			"GMS_A_essential",
 			"pointstorage"
 		]
 	},
 	"steellockbox": {
 		"categories": [
-			"GMS_0_essential",
+			"GMS_A_essential",
 			"pointstorage"
 		]
 	},
 	"statisticsboard": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	},
 	"watergatherer": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"fisherman": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"jewellerbench": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"tannertable": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"fletcherbench": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"npcshop": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"guardslingerdayjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardslingernightjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardpoison": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardbowdayjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardbownightjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardcrossbowdayjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardcrossbownightjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardhandcannondayjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardhandcannonnightjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardmusketdayjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardmusketnightjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardgrenadedayjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"guardgrenadenightjob": {
 		"categories": [
-			"GMS_4_defense",
+			"GMS_G_defense",
 			"guard"
 		]
 	},
 	"bloomery": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"bloomerylit": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"kiln": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"furnace": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"furnacelit": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"writerdesk": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"copperanvil": {
 		"categories": [
-			"GMS_3_job"
+			"GMS_E_job"
 		]
 	},
 	"bed": {
 		"categories": [
-			"GMS_0_essential"
+			"GMS_A_essential"
 		]
 	}
 }

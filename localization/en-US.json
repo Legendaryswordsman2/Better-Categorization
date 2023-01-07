@@ -1,15 +1,16 @@
 {
   "sentences": {
     "category": {
-      "GMS_0_essential": "Essentials",
-      "GMS_1_food": "Food",
-      "GMS_2_decorative": "Building Blocks",
-      "GMS_3_job": "Jobblocks",
-      "GMS_4_defense": "Defense",
-      "GMS_5_consumables": "Consumables",
-      "GMS_6_texres": "Textiles & Research",
-      "GMS_7_ingredient": "Ingredients & Luxury",
-      "GMS_8_misc": "Misc"
+      "GMS_A_essential": "Essentials",
+      "GMS_C_advjob": "Advnaced Jobblocks",
+      "GMS_E_job": "Jobblocks",
+      "GMS_G_defense": "Defense",
+      "GMS_I_decorative": "Building Blocks",
+      "GMS_K_consumables": "Consumables",
+      "GMS_M_food": "Food",
+      "GMS_O_texres": "Textiles & Research",
+      "GMS_Q_ingredient": "Ingredients & Luxury",
+      "GMS_S_misc": "Misc"
     }
   }
 }
