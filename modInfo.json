@@ -11,7 +11,7 @@
 			{
 				"fileType": "addOrOverrideLocalization",
 				"relativePath": "./localization/en-US.json",
-				"index": -16000
+				"index": 0
 			},
 			{
 				"fileType": "overrideTypeProperties",

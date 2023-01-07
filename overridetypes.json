@@ -1,7 +1,8 @@
 {
 	"alkanet": {
 		"categories": [
-			"GMS_O_texres"
+			"GMS_O_texres",
+			"flower"
 		]
 	},
 	"animalcarcass": {
@@ -11,27 +12,28 @@
 	},
 	"astrolabe": {
 		"categories": [
-			"GMS_A_essential"
+			"GMS_A_essential",
+			"Z_Astrolab" // Z_ at the begginning is so it appears at the bottom of the list
 		]
 	},
 	"barley": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"berry": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"berrybush": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_S_saplings"
 		]
 	},
 	"berrymeal": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_M_Meals"
 		]
 	},
 	"bookofknowledge": {
@@ -41,7 +43,7 @@
 	},
 	"bow": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"weapon"
 		]
 	},
@@ -57,12 +59,12 @@
 	},
 	"bread": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_M_Meals"
 		]
 	},
 	"breadmeal": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_M_Meals"
 		]
 	},
 	"bricks": {
@@ -114,12 +116,12 @@
 	},
 	"cabbage": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"caltrops": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
@@ -151,37 +153,41 @@
 	},
 	"chest": {
 		"categories": [
-			"GMS_O_texres"
+			"GMS_O_texres",
+			"chest"
 		]
 	},
 	"chestluxury": {
 		"categories": [
-			"GMS_O_texres"
+			"GMS_O_texres",
+			"chest"
 		]
 	},
 	"chestprestige": {
 		"categories": [
-			"GMS_O_texres"
+			"GMS_O_texres",
+			"chest"
 		]
 	},
 	"chestresource": {
 		"categories": [
-			"GMS_O_texres"
+			"GMS_O_texres",
+			"chest"
 		]
 	},
 	"chickenmeal": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_M_Meals"
 		]
 	},
 	"chickenpoop": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"chickenraw": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"clay": {
@@ -201,17 +207,18 @@
 	},
 	"compass": {
 		"categories": [
-			"GMS_A_essential"
+			"GMS_A_essential",
+			"Z_compass" // Z_ at the begginning is so it appears at the bottom of the list
 		]
 	},
 	"cookedfish": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_M_Meals"
 		]
 	},
 	"cookedmeat": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_M_Meals"
 		]
 	},
 	"copper": {
@@ -221,7 +228,7 @@
 	},
 	"copperarrow": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
@@ -248,18 +255,19 @@
 	},
 	"crate": {
 		"categories": [
-			"GMS_A_essential"
+			"GMS_A_essential",
+			"A_colonistBlock"
 		]
 	},
 	"crossbow": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"weapon"
 		]
 	},
 	"crossbowbolt": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
@@ -288,7 +296,7 @@
 	},
 	"droppertrapammo": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
@@ -305,7 +313,8 @@
 	},
 	"failsafe": {
 		"categories": [
-			"GMS_A_essential"
+			"GMS_A_essential",
+			"P_failsafe"
 		]
 	},
 	"firewood": {
@@ -315,7 +324,8 @@
 	},
 	"flax": {
 		"categories": [
-			"GMS_O_texres"
+			"GMS_O_texres",
+			"flower"
 		]
 	},
 	"flaxstage1": {
@@ -400,13 +410,13 @@
 	},
 	"grenadelauncher": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"weapon"
 		]
 	},
 	"grenadelauncherammo": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
@@ -417,25 +427,25 @@
 	},
 	"gunpowdertrapammo": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
 	"guntrapammo": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
 	"handcannon": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"weapon"
 		]
 	},
 	"handcannonammo": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
@@ -451,7 +461,8 @@
 	},
 	"hollyhock": {
 		"categories": [
-			"GMS_O_texres"
+			"GMS_O_texres",
+			"flower"
 		]
 	},
 	"ironbloom": {
@@ -519,7 +530,7 @@
 	},
 	"lanternyellow": {
 		"categories": [
-			"GMS_A_essential",
+			"GMS_I_decorative",
 			"lantern"
 		]
 	},
@@ -618,7 +629,8 @@
 	},
 	"merchanthub": {
 		"categories": [
-			"GMS_A_essential"
+			"GMS_A_essential",
+			"merchanthub"
 		]
 	},
 	"metalgear": {
@@ -628,7 +640,7 @@
 	},
 	"monocular": {
 		"categories": [
-			"GMS_A_essential"
+			"GMS_O_texres"
 		]
 	},
 	"movabletype": {
@@ -643,13 +655,13 @@
 	},
 	"musket": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"weapon"
 		]
 	},
 	"musketammo": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
@@ -698,7 +710,7 @@
 	},
 	"poisondart": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
@@ -709,33 +721,33 @@
 	},
 	"potempty": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"potflour": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"potwater": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"projectiletrapammo": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
 	"rawfish": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"rawmeat": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"rope": {
@@ -745,13 +757,13 @@
 	},
 	"ropetrap": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_h_traps",
 			"trap"
 		]
 	},
 	"ropetrapammo": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
@@ -762,17 +774,17 @@
 	},
 	"sanctifiedbreadmeal": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_M_Meals"
 		]
 	},
 	"sanctifiedchickenmeal": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_M_Meals"
 		]
 	},
 	"sanctifiedporridge": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_M_Meals"
 		]
 	},
 	"sand": {
@@ -782,61 +794,61 @@
 	},
 	"sapling": {
 		"categories": [
-			"GMS_I_decorative",
+			"GMS_S_saplings",
 			"sapling"
 		]
 	},
 	"saplingfallorange": {
 		"categories": [
-			"GMS_I_decorative",
+			"GMS_S_saplings",
 			"sapling"
 		]
 	},
 	"saplingfallred": {
 		"categories": [
-			"GMS_I_decorative",
+			"GMS_S_saplings",
 			"sapling"
 		]
 	},
 	"saplingfallyellow": {
 		"categories": [
-			"GMS_I_decorative",
+			"GMS_S_saplings",
 			"sapling"
 		]
 	},
 	"saplingdark": {
 		"categories": [
-			"GMS_I_decorative",
+			"GMS_S_saplings",
 			"sapling"
 		]
 	},
 	"saplinglight": {
 		"categories": [
-			"GMS_I_decorative",
+			"GMS_S_saplings",
 			"sapling"
 		]
 	},
 	"saplingtaiga": {
 		"categories": [
-			"GMS_I_decorative",
+			"GMS_S_saplings",
 			"sapling"
 		]
 	},
 	"saplingtemperate": {
 		"categories": [
-			"GMS_I_decorative",
+			"GMS_S_saplings",
 			"sapling"
 		]
 	},
 	"saplingcherry": {
 		"categories": [
-			"GMS_I_decorative",
+			"GMS_S_saplings",
 			"sapling"
 		]
 	},
 	"saplinggreen": {
 		"categories": [
-			"GMS_I_decorative",
+			"GMS_S_saplings",
 			"sapling"
 		]
 	},
@@ -862,13 +874,13 @@
 	},
 	"sling": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"weapon"
 		]
 	},
 	"slingbullet": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_R_weapons/ammo",
 			"ammo"
 		]
 	},
@@ -966,7 +978,8 @@
 	},
 	"toolshop": {
 		"categories": [
-			"GMS_A_essential"
+			"GMS_A_essential",
+			"A_colonistBlock"
 		]
 	},
 	"torch": {
@@ -1001,22 +1014,22 @@
 	},
 	"wheat": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"wheatmeal": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_M_Meals"
 		]
 	},
 	"wheatporridge": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_M_Meals"
 		]
 	},
 	"wheatstage1": {
 		"categories": [
-			"GMS_M_food"
+			"GMS_N_Unprocessed"
 		]
 	},
 	"wisteriaflower": {
@@ -1036,7 +1049,8 @@
 	},
 	"wolfsbane": {
 		"categories": [
-			"GMS_O_texres"
+			"GMS_O_texres",
+			"flower"
 		]
 	},
 	"woodfloor": {
@@ -1062,67 +1076,68 @@
 	// Generate Blocks/GMS_E_joblocks
 	"glider": {
 		"categories": [
-			"GMS_A_essential",
+			"GMS_J_transport",
 			"transport"
 		]
 	},
 	"glidersteel": {
 		"categories": [
-			"GMS_A_essential",
+			"GMS_J_transport",
 			"transport"
 		]
 	},
 	"droppertrap": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_h_traps",
 			"trap"
 		]
 	},
 	"gunpowdertrap": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_h_traps",
 			"trap"
 		]
 	},
 	"projectiletrap": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_h_traps",
 			"trap"
 		]
 	},
 	"guntrap": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_h_traps",
 			"trap"
 		]
 	},
 	"elevator": {
 		"categories": [
-			"GMS_A_essential",
+			"GMS_J_transport",
 			"transport"
 		]
 	},
 	"elevatorshaft": {
 		"categories": [
-			"GMS_A_essential",
+			"GMS_J_transport",
 			"transport"
 		]
 	},
 	"elevatorhorizontal": {
 		"categories": [
-			"GMS_A_essential",
+			"GMS_J_transport",
 			"transport"
 		]
 	},
 	"elevatorshafthorizontal": {
 		"categories": [
-			"GMS_A_essential",
+			"GMS_J_transport",
 			"transport"
 		]
 	},
-	"goldenstatue": {
+	"goldenstatue": { // Threat Banner
 		"categories": [
-			"GMS_A_essential"
+			"GMS_A_essential",
+			"threatbanner"
 		]
 	},
 	"quarterblockgrey": {
@@ -1145,7 +1160,7 @@
 	},
 	"caltroptrap": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_h_traps",
 			"trap"
 		]
 	},
@@ -1166,7 +1181,7 @@
 	},
 	"alarmbell": {
 		"categories": [
-			"GMS_G_defense"
+			"GMS_F_defense-night"
 		]
 	},
 	"tailorshop": {
@@ -1256,42 +1271,42 @@
 	},
 	"researcherdesk": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"bookcase": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"bookcasefilled": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"bookcase1": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"bookcase2": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"chestmaker": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"gunsmith": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"glassblower": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"jobblockcrafter": {
@@ -1301,12 +1316,12 @@
 	},
 	"jobblockcrafteradvanced": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"printingpress": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"dyertable": {
@@ -1316,42 +1331,45 @@
 	},
 	"cottonengine": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"metallathe": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"tabulator": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"blastfurnace": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"blastfurnacelit": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"compostingbin": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"copperlockbox": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_A_essential",
+			"lockbox",
+			"pointstorage"
 		]
 	},
 	"sanctifiedhouse": {
 		"categories": [
 			"GMS_A_essential",
+			"P_failsafe",
 			"pointstorage"
 		]
 	},
@@ -1362,18 +1380,20 @@
 	},
 	"trapfixer": {
 		"categories": [
-			"GMS_A_essential"
+			"GMS_E_job"
 		]
 	},
 	"bronzelockbox": {
 		"categories": [
 			"GMS_A_essential",
+			"lockbox",
 			"pointstorage"
 		]
 	},
 	"steellockbox": {
 		"categories": [
 			"GMS_A_essential",
+			"lockbox",
 			"pointstorage"
 		]
 	},
@@ -1409,100 +1429,101 @@
 	},
 	"npcshop": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_A_essential",
+			"A_colonistBlock"
 		]
 	},
 	"guardslingerdayjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_G_defense-day",
 			"guard"
 		]
 	},
 	"guardslingernightjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_F_defense-night",
 			"guard"
 		]
 	},
 	"guardpoison": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_F_defense-night",
 			"guard"
 		]
 	},
 	"guardbowdayjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_G_defense-day",
 			"guard"
 		]
 	},
 	"guardbownightjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_F_defense-night",
 			"guard"
 		]
 	},
 	"guardcrossbowdayjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_G_defense-day",
 			"guard"
 		]
 	},
 	"guardcrossbownightjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_F_defense-night",
 			"guard"
 		]
 	},
 	"guardhandcannondayjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_G_defense-day",
 			"guard"
 		]
 	},
 	"guardhandcannonnightjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_F_defense-night",
 			"guard"
 		]
 	},
 	"guardmusketdayjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_G_defense-day",
 			"guard"
 		]
 	},
 	"guardmusketnightjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_F_defense-night",
 			"guard"
 		]
 	},
 	"guardgrenadedayjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_G_defense-day",
 			"guard"
 		]
 	},
 	"guardgrenadenightjob": {
 		"categories": [
-			"GMS_G_defense",
+			"GMS_F_defense-night",
 			"guard"
 		]
 	},
 	"bloomery": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"bloomerylit": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"kiln": {
 		"categories": [
-			"GMS_E_job"
+			"GMS_C_advjob"
 		]
 	},
 	"furnace": {
@@ -1527,7 +1548,8 @@
 	},
 	"bed": {
 		"categories": [
-			"GMS_A_essential"
+			"GMS_A_essential",
+			"bed"
 		]
 	}
 }

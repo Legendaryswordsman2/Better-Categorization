@@ -4,13 +4,19 @@
       "GMS_A_essential": "Essentials",
       "GMS_C_advjob": "Advnaced Jobblocks",
       "GMS_E_job": "Jobblocks",
-      "GMS_G_defense": "Defense",
+      "GMS_F_defense-night": "Defense-Night",
+      "GMS_G_defense-day": "Defense-Day",
+      "GMS_h_traps": "Traps",
       "GMS_I_decorative": "Building Blocks",
+      "GMS_J_transport": "Transport",
       "GMS_K_consumables": "Consumables",
-      "GMS_M_food": "Food",
+      "GMS_M_Meals": "Meals",
+      "GMS_N_Unprocessed": "Unprocessed Food",
       "GMS_O_texres": "Textiles & Research",
       "GMS_Q_ingredient": "Ingredients & Luxury",
-      "GMS_S_misc": "Misc"
+      "GMS_R_weapons/ammo": "Weapons & Ammo",
+      "GMS_S_saplings": "Saplings",
+      "GMS_Z_misc": "Misc"
     }
   }
 }
