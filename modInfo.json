@@ -4,6 +4,7 @@
 		"version": "0.1.1.0",
 		"enableddefault": true,
 		"description": "Restructures the inventory stockpile to make everything more organized",
+		"dllpath":  "./override_mods/Better Categorization.dll",
 		"compatibleversions": [
 			"0.9.0"
 		],

@@ -862,12 +862,6 @@
 			"sapling"
 		]
 	},
-	"saplinggreen": {
-		"categories": [
-			"GMS_S_saplings",
-			"sapling"
-		]
-	},
 	"scientificnote": {
 		"categories": [
 			"GMS_O_texres"
@@ -1084,11 +1078,6 @@
 		]
 	},
 	"colonykit": {
-		"categories": [
-			"GMS_A_essential"
-		]
-	},
-	"redsapling": {
 		"categories": [
 			"GMS_A_essential"
 		]

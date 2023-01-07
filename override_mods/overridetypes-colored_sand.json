@@ -1,0 +1,20 @@
+{
+  "GMS.sand_red": {
+    "categories": [
+      "GMS_I_decorative",
+      "sand"
+    ]
+  },
+  "GMS.sand_blue": {
+    "categories": [
+      "GMS_I_decorative",
+      "sand"
+    ]
+  },
+  "GMS.sand_green": {
+    "categories": [
+      "GMS_I_decorative",
+      "sand"
+    ]
+  }
+}
