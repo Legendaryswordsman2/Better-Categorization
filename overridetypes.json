@@ -983,5 +983,120 @@
 		"categories": [
 			"consumables"
 		]
+	},
+	// Generate Blocks/Joblocks
+	"glider": {
+		"categories": [
+			"essential",
+			"transport"
+		]
+	},
+	"glidersteel": {
+		"categories": [
+			"essential",
+			"transport"
+		]
+	},
+	"droppertrap": {
+		"categories": [
+			"defense",
+			"trap"
+		]
+	},
+	"gunpowdertrap": {
+		"categories": [
+			"defense",
+			"trap"
+		]
+	},
+	"projectiletrap": {
+		"categories": [
+			"defense",
+			"trap"
+		]
+	},
+	"guntrap": {
+		"categories": [
+			"defense",
+			"trap"
+		]
+	},
+	"elevator": {
+		"categories": [
+			"essential",
+			"transport"
+		]
+	},
+	"elevatorShaft": {
+		"categories": [
+			"essential",
+			"transport"
+		]
+	},
+	"elevatorhorizontal": {
+		"categories": [
+			"essential",
+			"transport"
+		]
+	},
+	"elevatorshafthorizontal": {
+		"categories": [
+			"essential",
+			"transport"
+		]
+	},
+	"goldenstatue": {
+		"categories": [
+			"essential"
+		]
+	},
+	"quarterblockgrey": {
+		"categories": [
+			"decorative",
+			"stair"
+		]
+	},
+	"quarterblockbrowndark": {
+		"categories": [
+			"decorative",
+			"stair"
+		]
+	},
+	"quarterblockbrownlight": {
+		"categories": [
+			"decorative",
+			"stair"
+		]
+	},
+	"caltroptrap": {
+		"categories": [
+			"defense",
+			"trap"
+		]
+	},
+	"minerjob": {
+		"categories": [
+			"job"
+		]
+	},
+	"tinkerertable": {
+		"categories": [
+			"job"
+		]
+	},
+	"sanctifiertable": {
+		"categories": [
+			"job"
+		]
+	},
+	"alarmbell": {
+		"categories": [
+			"defense"
+		]
+	},
+	"tailorshop": {
+		"categories": [
+			"job"
+		]
 	}
 }
