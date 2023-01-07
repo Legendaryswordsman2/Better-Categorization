@@ -10,7 +10,8 @@
 		"jsonFiles": [
 			{
 				"fileType": "addOrOverrideLocalization",
-				"relativePath": "./localization/en-US.json"
+				"relativePath": "./localization/en-US.json",
+				"index": -16000
 			},
 			{
 				"fileType": "overrideTypeProperties",

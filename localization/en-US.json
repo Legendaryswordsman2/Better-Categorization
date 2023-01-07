@@ -1,17 +1,15 @@
 {
-  "coverage": 100.0,
   "sentences": {
     "category": {
-      "consumables": "Consumables",
-      "decorative": "Building Blocks",
-      "defense": "Defense",
-      "essential": "Essentials",
-      "food": "Food",
-      "ingredient": "Ingredients & Luxury",
-      "job": "Jobblocks",
-      "advjob": "Advanced Joblocks",
-      "misc": "Misc",
-      "texres": "Textiles & Research"
+      "GMS_essential": "Essentials",
+      "GMS_decorative": "Building Blocks",
+      "GMS_consumables": "Consumables",
+      "GMS_defense": "Defense",
+      "GMS_food": "Food",
+      "GMS_ingredient": "Ingredients & Luxury",
+      "GMS_job": "Jobblocks",
+      "GMS_misc": "Misc",
+      "GMS_texres": "Textiles & Research"
     }
   }
 }
