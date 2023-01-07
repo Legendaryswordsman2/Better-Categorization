@@ -1,15 +1,15 @@
 {
   "sentences": {
     "category": {
-      "GMS_essential": "Essentials",
-      "GMS_decorative": "Building Blocks",
-      "GMS_consumables": "Consumables",
-      "GMS_defense": "Defense",
-      "GMS_food": "Food",
-      "GMS_ingredient": "Ingredients & Luxury",
-      "GMS_job": "Jobblocks",
-      "GMS_misc": "Misc",
-      "GMS_texres": "Textiles & Research"
+      "GMS_0_essential": "Essentials",
+      "GMS_1_food": "Food",
+      "GMS_2_decorative": "Building Blocks",
+      "GMS_3_job": "Jobblocks",
+      "GMS_4_defense": "Defense",
+      "GMS_5_consumables": "Consumables",
+      "GMS_6_texres": "Textiles & Research",
+      "GMS_7_ingredient": "Ingredients & Luxury",
+      "GMS_8_misc": "Misc"
     }
   }
 }
