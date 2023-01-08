@@ -50,13 +50,14 @@
 	},
 	"brassingot": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_K_ProcessedResources",
 			"ingot"
 		]
 	},
 	"brassparts": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"bread": {
@@ -107,7 +108,7 @@
 	},
 	"bronzeingot": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_K_ProcessedResources",
 			"ingot"
 		]
 	},
@@ -145,8 +146,8 @@
 	},
 	"charcoal": {
 		"categories": [
-			"GMS_K_consumables",
-			"various"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"cherryblossom": {
@@ -196,20 +197,20 @@
 	},
 	"clay": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_L_resources",
 			"ore"
 		]
 	},
 	"coalore": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_L_resources",
 			"ore"
 		]
 	},
 	"cokes": {
 		"categories": [
-			"GMS_K_consumables",
-			"various"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"compass": {
@@ -230,7 +231,7 @@
 	},
 	"copper": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_L_resources",
 			"ore"
 		]
 	},
@@ -242,7 +243,7 @@
 	},
 	"copperingot": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_K_ProcessedResources",
 			"ingot"
 		]
 	},
@@ -328,7 +329,7 @@
 	},
 	"firewood": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_K_ProcessedResources",
 			"firewood"
 		]
 	},
@@ -345,7 +346,8 @@
 	},
 	"glasspiece": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"goldenshield": {
@@ -355,7 +357,7 @@
 	},
 	"goldingot": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_K_ProcessedResources",
 			"ingot"
 		]
 	},
@@ -366,7 +368,7 @@
 	},
 	"goldore": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_L_resources",
 			"ore"
 		]
 	},
@@ -434,7 +436,8 @@
 	},
 	"gunpowder": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"gunpowdertrapammo": {
@@ -479,13 +482,13 @@
 	},
 	"ironbloom": {
 		"categories": [
-			"GMS_K_consumables",
-			"various"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"ironore": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_L_resources",
 			"ore"
 		]
 	},
@@ -497,8 +500,8 @@
 	},
 	"ironwrought": {
 		"categories": [
-			"GMS_K_consumables",
-			"various"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"lanternblue": {
@@ -551,13 +554,13 @@
 	},
 	"leadingot": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_K_ProcessedResources",
 			"ingot"
 		]
 	},
 	"leadore": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_L_resources",
 			"ore"
 		]
 	},
@@ -630,7 +633,8 @@
 	},
 	"luxurygarments": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"machinetools": {
@@ -652,7 +656,8 @@
 	},
 	"metalgear": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"monocular": {
@@ -684,7 +689,8 @@
 	},
 	"nitro": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"outpostbanner": {
@@ -733,7 +739,8 @@
 	},
 	"potash": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_L_resources",
+			"resources"
 		]
 	},
 	"potempty": {
@@ -769,7 +776,8 @@
 	},
 	"rope": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_L_resources",
+			"resources"
 		]
 	},
 	"ropetrap": {
@@ -786,7 +794,8 @@
 	},
 	"saltpeter": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_L_resources",
+			"resources"
 		]
 	},
 	"sanctifiedbreadmeal": {
@@ -875,7 +884,8 @@
 	},
 	"silicasand": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_L_resources",
+			"resources"
 		]
 	},
 	"skin": {
@@ -902,13 +912,14 @@
 	},
 	"steelingot": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_K_ProcessedResources",
 			"ingot"
 		]
 	},
 	"steelparts": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"steeltools": {
@@ -954,7 +965,7 @@
 	},
 	"stonerubble": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_L_resources",
 			"rubble"
 		]
 	},
@@ -971,7 +982,8 @@
 	},
 	"sulfur": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_L_resources",
+			"resources"
 		]
 	},
 	"tabletclay": {
@@ -986,7 +998,7 @@
 	},
 	"tin": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_L_resources",
 			"ore"
 		]
 	},
@@ -1008,22 +1020,26 @@
 	},
 	"vialempty": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_L_resources",
+			"resources"
 		]
 	},
 	"vialmineraloil": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"vialnitricacid": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"vialsulphuricacid": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_K_ProcessedResources",
+			"processed_resources"
 		]
 	},
 	"wheat": {
@@ -1048,7 +1064,8 @@
 	},
 	"wisteriaflower": {
 		"categories": [
-			"GMS_Q_ingredient"
+			"GMS_L_resources",
+			"resources"
 		]
 	},
 	"wisteriaplant": {
@@ -1074,7 +1091,7 @@
 	},
 	"zinc": {
 		"categories": [
-			"GMS_K_consumables",
+			"GMS_L_resources",
 			"ore"
 		]
 	},
