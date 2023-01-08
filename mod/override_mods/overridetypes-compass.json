@@ -1,9 +1,8 @@
 {
-  "gravel1": {
+  "Khanx.Compass": {
     "categories": [
       "GMS_A_essential",
-      "moditem",
-      "teleporter"
+      "moditem"
     ]
   }
 }

@@ -172,9 +172,7 @@
   },
   "lanternmaker": {
     "categories": [
-      "GMS_C_advjob",
-      "aa_bluelantern",
-      "lantern"
+      "GMS_C_advjob"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "Khanx.AdvancedForester.saplingfallred": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -9,7 +9,7 @@
   },
   "Khanx.AdvancedForester.saplingfallyellow": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -17,7 +17,7 @@
   },
   "Khanx.AdvancedForester.saplinggreendark": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -25,7 +25,7 @@
   },
   "Khanx.AdvancedForester.saplinggreenlight": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -33,7 +33,7 @@
   },
   "Khanx.AdvancedForester.BIGsaplingtemperate": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -41,7 +41,7 @@
   },
   "Khanx.AdvancedForester.BIGsaplingtaiga": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -49,7 +49,7 @@
   },
   "Khanx.AdvancedForester.BIGsaplingfallorange": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -57,19 +57,19 @@
   },
   "Khanx.AdvancedForester.oliveleaves": {
     "categories": [
-      "decorative"
+      "GMS_I_decorative"
     ]
   },
   "Khanx.AdvancedForester.olivesapling": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative"
     ]
   },
   "Khanx.AdvancedForester.BIGsaplingolive": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -77,7 +77,7 @@
   },
   "Khanx.AdvancedForester.BIGsaplingfallred": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -85,7 +85,7 @@
   },
   "Khanx.AdvancedForester.BIGsaplingfallyellow": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -93,7 +93,7 @@
   },
   "Khanx.AdvancedForester.BIGsaplinggreendark": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -101,7 +101,7 @@
   },
   "Khanx.AdvancedForester.BIGsaplinggreenlight": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
@@ -109,7 +109,7 @@
   },
   "Khanx.AdvancedForester.BIGsaplingcherry": {
     "categories": [
-      "food",
+      "GMS_S_saplings",
       "seed",
       "decorative",
       "khanx"
