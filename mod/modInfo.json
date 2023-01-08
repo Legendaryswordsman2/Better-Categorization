@@ -16,8 +16,8 @@
 			},
 			{
 				"fileType": "overrideTypeProperties",
-				"index": 15000,
-				"relativePath": "overridetypes.json"
+				"index": 10000,
+				"relativePath": "./overridetypes.json"
 			}
 		]
 	}

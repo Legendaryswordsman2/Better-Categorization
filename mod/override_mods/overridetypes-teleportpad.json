@@ -1,4 +1,11 @@
 {
+  "Khanx.TeleportPad": {
+    "categories": [
+      "GMS_A_essential",
+      "moditem",
+      "teleporter"
+    ]
+  },
   "Khanx.TeleportPadD": {
     "categories": [
       "GMS_A_essential",

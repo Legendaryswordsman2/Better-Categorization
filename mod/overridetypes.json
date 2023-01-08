@@ -28,7 +28,8 @@
 	},
 	"berrybush": {
 		"categories": [
-			"GMS_S_saplings"
+			"GMS_S_saplings",
+			"berryseed"
 		]
 	},
 	"berrymeal": {
@@ -339,7 +340,7 @@
 	},
 	"flaxstage1": {
 		"categories": [
-			"GMS_O_texres"
+			"GMS_S_saplings"
 		]
 	},
 	"glasspiece": {
@@ -1042,7 +1043,7 @@
 	},
 	"wheatstage1": {
 		"categories": [
-			"GMS_N_Unprocessed"
+			"GMS_S_saplings"
 		]
 	},
 	"wisteriaflower": {

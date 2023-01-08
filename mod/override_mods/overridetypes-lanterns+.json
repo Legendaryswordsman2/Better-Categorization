@@ -1,0 +1,180 @@
+{
+  //--BRIGHT--
+  "lanternblue_bright": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "aa_bluelantern",
+      "lantern"
+    ]
+  },
+  //--DIM--
+  "lanternblue_dim": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "ac_bluelantern",
+      "lantern"
+    ]
+  },
+  "lanterncyan_bright": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "ba_cyanlantern",
+      "lantern"
+    ]
+  },
+  "lanterncyan_dim": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "bc_cyanlantern",
+      "lantern"
+    ]
+  },
+  "lanterngreen_bright": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "ca_greenlantern",
+      "lantern"
+    ]
+  },
+  "lanterngreen_dim": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "cc_greenlantern",
+      "lantern"
+    ]
+  },
+  "lanternorange_bright": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "da_orangelantern",
+      "lantern"
+    ]
+  },
+  "lanternorange_dim": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "dc_orangelantern",
+      "lantern"
+    ]
+  },
+  "lanternpink_bright": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "ea_pinklantern",
+      "lantern"
+    ]
+  },
+  "lanternpink_dim": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "ec_pinklantern",
+      "lantern"
+    ]
+  },
+  "lanternred_bright": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "fa_redlantern",
+      "lantern"
+    ]
+  },
+  "lanternred_dim": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "fc_redlantern",
+      "lantern"
+    ]
+  },
+  "lanternwhite_bright": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "ga_whitelantern",
+      "lantern"
+    ]
+  },
+  "lanternwhite_dim": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "gc_whitelantern",
+      "lantern"
+    ]
+  },
+  "lanternyellow_bright": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "ha_yellowlantern",
+      "lantern"
+    ]
+  },
+  "lanternyellow_dim": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "hc_yellowlantern",
+      "lantern"
+    ]
+  },
+  //NORMAL LANTERNS
+  "lanternblue": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "ab_bluelantern",
+      "lantern"
+    ]
+  },
+  "lanterncyan": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "bb_cyanlantern",
+      "lantern"
+    ]
+  },
+  "lanterngreen": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "cb_greenlantern",
+      "lantern"
+    ]
+  },
+  "lanternorange": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "db_orangelantern",
+      "lantern"
+    ]
+  },
+  "lanternpink": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "eb_pinklantern",
+      "lantern"
+    ]
+  },
+  "lanternred": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "fb_redlantern",
+      "lantern"
+    ]
+  },
+  "lanternwhite": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "gb_whitelantern",
+      "lantern"
+    ]
+  },
+  "lanternyellow": {
+    "categories": [
+      "GMS_IA_lanterns+",
+      "hb_yellowlantern",
+      "lantern"
+    ]
+  },
+  "lanternmaker": {
+    "categories": [
+      "GMS_C_advjob",
+      "aa_bluelantern",
+      "lantern"
+    ]
+  }
+}
