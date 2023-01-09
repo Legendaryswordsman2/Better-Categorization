@@ -1,0 +1,88 @@
+{
+  "barrel": {
+    "categories": [
+      "GMS_A_essential",
+      "A_colonistBlock"
+    ]
+  },
+  "coremine": {
+    "categories": [
+      "GMS_E_job"
+    ]
+  },
+  "crystalmine": {
+    "categories": [
+      "GMS_E_job"
+    ]
+  },
+  "improvedpump": {
+    "categories": [
+      "GMS_E_job"
+    ]
+  },
+  "carpenter": {
+    "categories": [
+      "GMS_E_job"
+    ]
+  },
+  "logsplitter": {
+    "categories": [
+      "GMS_E_job"
+    ]
+  },
+  "cannonday": {
+    "categories": [
+      "GMS_G_defense-day"
+    ]
+  },
+  "cannonnight": {
+    "categories": [
+      "GMS_F_defense-night"
+    ]
+  },
+  "gatlinggunday": {
+    "categories": [
+      "GMS_G_defense-day"
+    ]
+  },
+  "gatlinggunnight": {
+    "categories": [
+      "GMS_F_defense-night"
+    ]
+  },
+  "mortarday": {
+    "categories": [
+      "GMS_G_defense-day"
+    ]
+  },
+  "mortarnight": {
+    "categories": [
+      "GMS_F_defense-night"
+    ]
+  },
+  "shieldguardnight": {
+    "categories": [
+      "GMS_F_defense-night"
+    ]
+  },
+  "cannonball": {
+    "categories": [
+      "GMS_R_weapons/ammo"
+    ]
+  },
+  "explosiveshell": {
+    "categories": [
+      "GMS_R_weapons/ammo"
+    ]
+  },
+  "gatlingammo": {
+    "categories": [
+      "GMS_R_weapons/ammo"
+    ]
+  },
+  "steak": {
+    "categories": [
+      "GMS_M_Meals"
+    ]
+  }
+}

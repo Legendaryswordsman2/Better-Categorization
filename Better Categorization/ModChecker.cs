@@ -20,8 +20,6 @@ namespace Better_Categorization
             if (mods.Where(mod => mod.name == "Colored Sand").Any())
                 ItemTypesServer.QueueItemTypePatches(Path.Combine(Path.GetDirectoryName(assemblyPath), "overridetypes-colored_sand.json"), ItemTypesServer.EItemTypePatchType.OverrideTypeProperties, 50000);
 
-
-            //Log.Write((mods.Where(mod => mod.name == "TeleportPad").Any() == true).ToString());
             if (mods.Where(mod => mod.name == "TeleportPad").Any() || mods.Where(mod => mod.name == "Teleport Pads+").Any())
                 ItemTypesServer.QueueItemTypePatches(Path.Combine(Path.GetDirectoryName(assemblyPath), "overridetypes-teleportpad.json"), ItemTypesServer.EItemTypePatchType.OverrideTypeProperties, 50000);
 
@@ -36,6 +34,9 @@ namespace Better_Categorization
 
             if (mods.Where(mod => mod.name == "Compass").Any())
                 ItemTypesServer.QueueItemTypePatches(Path.Combine(Path.GetDirectoryName(assemblyPath), "overridetypes-compass.json"), ItemTypesServer.EItemTypePatchType.OverrideTypeProperties, 50000);
+
+            if (mods.Where(mod => mod.name == "Kings 0.9 Textures and Decorations").Any())
+                ItemTypesServer.QueueItemTypePatches(Path.Combine(Path.GetDirectoryName(assemblyPath), "overridetypes-kings_0.9_textures_and_decorations.json"), ItemTypesServer.EItemTypePatchType.OverrideTypeProperties, 50000);
         }
 
         public void OnAssemblyLoaded(string path)
