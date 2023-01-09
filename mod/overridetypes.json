@@ -29,6 +29,7 @@
 	"berrybush": {
 		"categories": [
 			"GMS_S_saplings",
+			"decorative",
 			"berryseed"
 		]
 	},
@@ -73,36 +74,42 @@
 	"bricks": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"bricks"
 		]
 	},
 	"bricksblack": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"bricks"
 		]
 	},
 	"bricksdarkred": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"bricks"
 		]
 	},
 	"bricksdarkyellow": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"bricks"
 		]
 	},
 	"brickslight": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"bricks"
 		]
 	},
 	"bricksred": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"bricks"
 		]
 	},
@@ -153,6 +160,7 @@
 	"cherryblossom": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"leaves"
 		]
 	},
@@ -283,24 +291,28 @@
 	},
 	"darkstone": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_I_decorative",
+			"decorative"
 		]
 	},
 	"dirt": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"dirt"
 		]
 	},
 	"dirtfen": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"dirt"
 		]
 	},
 	"dirtheath": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"dirt"
 		]
 	},
@@ -375,37 +387,35 @@
 	"grassdry": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"grass"
 		]
 	},
 	"grassfen": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"grass"
 		]
 	},
 	"grassheath": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"grass"
 		]
 	},
 	"grassheathpurple": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"grass"
 		]
 	},
 	"grassmax": {
-		"attachBehaviour": [
-			{
-				"id": "dirtconversion",
-				"type": "dirt"
-			}
-		],
-		"blockFertility": 1,
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"grass"
 		]
 	},
@@ -413,12 +423,14 @@
 		"blockFertility": 1,
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"grass"
 		]
 	},
 	"grasswet": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"grass"
 		]
 	},
@@ -507,48 +519,56 @@
 	"lanternblue": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"lantern"
 		]
 	},
 	"lanterncyan": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"lantern"
 		]
 	},
 	"lanterngreen": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"lantern"
 		]
 	},
 	"lanternorange": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"lantern"
 		]
 	},
 	"lanternpink": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"lantern"
 		]
 	},
 	"lanternred": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"lantern"
 		]
 	},
 	"lanternwhite": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"lantern"
 		]
 	},
 	"lanternyellow": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"lantern"
 		]
 	},
@@ -572,42 +592,49 @@
 	"leavesfallorange": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"leaves"
 		]
 	},
 	"leavesfallred": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"leaves"
 		]
 	},
 	"leavesfallyellow": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"leaves"
 		]
 	},
 	"leavesgreendark": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"leaves"
 		]
 	},
 	"leavesgreenlight": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"leaves"
 		]
 	},
 	"leavestaiga": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"leaves"
 		]
 	},
 	"leavestemperate": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"leaves"
 		]
 	},
@@ -618,17 +645,20 @@
 	},
 	"logtaiga": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_I_decorative",
+			"decorative"
 		]
 	},
 	"logtemperate": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_I_decorative",
+			"decorative"
 		]
 	},
 	"logwall": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_I_decorative",
+			"decorative"
 		]
 	},
 	"luxurygarments": {
@@ -672,7 +702,8 @@
 	},
 	"mudbricks": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_I_decorative",
+			"decorative"
 		]
 	},
 	"musket": {
@@ -710,25 +741,30 @@
 	},
 	"planks": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_I_decorative",
+			"decorative"
 		]
 	},
 	"planksblue": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"planks"
 		]
 	},
 	"planksgreen": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"planks"
 		]
 	},
 	"planksred": {
 		"categories": [
 			"GMS_I_decorative",
-			"planks"
+			"decorative",
+			"planks",
+			"decorative"
 		]
 	},
 	"poisondart": {
@@ -815,7 +851,8 @@
 	},
 	"sand": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_I_decorative",
+			"decorative"
 		]
 	},
 	"sapling": {
@@ -907,7 +944,8 @@
 	},
 	"snow": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_I_decorative",
+			"decorative"
 		]
 	},
 	"steelingot": {
@@ -930,36 +968,42 @@
 	},
 	"stoneblock": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_I_decorative",
+				"decorative"
 		]
 	},
 	"stonebricks": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"bricks"
 		]
 	},
 	"stonebricksblack": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"bricks"
 		]
 	},
 	"stonebricksbrown": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"bricks"
 		]
 	},
 	"stonebricksnew": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"bricks"
 		]
 	},
 	"stonebrickswhite": {
 		"categories": [
 			"GMS_I_decorative",
+			"decorative",
 			"bricks"
 		]
 	},
@@ -977,7 +1021,8 @@
 	},
 	"straw": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_I_decorative",
+			"decorative"
 		]
 	},
 	"sulfur": {
@@ -1086,7 +1131,8 @@
 	},
 	"woodfloor": {
 		"categories": [
-			"GMS_I_decorative"
+			"GMS_I_decorative",
+			"decorative"
 		]
 	},
 	"zinc": {
