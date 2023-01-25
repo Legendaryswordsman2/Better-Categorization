@@ -1,4 +1,5 @@
-# Better-Categorization
+![Capture](https://user-images.githubusercontent.com/87250196/214463750-b082a0c0-909b-477d-8017-d1612c3769d1.PNG)
+
 
 ## Better Categorization completely overhauls the inventory, most default categories have either been replaced or split between multiple categories, the goal is to make scouring your inventory a breeze so you can find what you want when you want it.
 
