@@ -22,3 +22,5 @@ The "Food" category has also been split into two different category, "Meals" & "
 Added a new "Seeds" category to hold all different types of seeds in the game.
 
 Various items within categories have been rearranged and some items have been grouped together, an example of this is in "Textiles & Research" where the flowers and chests have been grouped together.
+
+Mod compatibility can be found on the steam workshop page https://steamcommunity.com/sharedfiles/filedetails/?id=2914051874
